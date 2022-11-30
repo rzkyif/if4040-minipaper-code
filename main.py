@@ -12,7 +12,7 @@ from time import perf_counter
 
 # -------------------------------- PostgreSQL -------------------------------- #
 
-def g_p(conn, data):
+def g_p(conn: psycopg2.connection, data):
   """Generate and insert dummy data for PostgreSQL
   """
   t = perf_counter()
@@ -21,7 +21,7 @@ def g_p(conn, data):
 
   print(f"Data insertion complete! ({perf_counter()-t}s)")
 
-def t_p_1(conn):
+def t_p_1(conn: psycopg2.connection):
   """Test query 1 for PostgreSQL
   """
   t = perf_counter()
@@ -31,7 +31,7 @@ def t_p_1(conn):
   print(f"PostgreSQL query 1 complete! ({perf_counter()-t}s)")
 
 
-def t_p_2(conn):
+def t_p_2(conn: psycopg2.connection):
   """Test query 2 for PostgreSQL
   """
   t = perf_counter()
@@ -40,7 +40,7 @@ def t_p_2(conn):
 
   print(f"PostgreSQL query 2 complete! ({perf_counter()-t}s)")
 
-def t_p_3(conn):
+def t_p_3(conn: psycopg2.connection):
   """Test query 3 for PostgreSQL
   """
   t = perf_counter()
@@ -49,7 +49,7 @@ def t_p_3(conn):
 
   print(f"PostgreSQL query 3 complete! ({perf_counter()-t}s)")
 
-def t_p(conn):
+def t_p(conn: psycopg2.connection):
   """Test all query for PostgreSQL
   """
   t = perf_counter()
@@ -62,7 +62,7 @@ def t_p(conn):
 
 # ----------------------------------- Neo4J ---------------------------------- #
 
-def g_n(graph, data):
+def g_n(graph: Graph, data):
   """Generate and insert dummy data for Neo4j
   """
   t = perf_counter()
@@ -71,7 +71,7 @@ def g_n(graph, data):
 
   print(f"Data insertion complete! ({perf_counter()-t}s)")
 
-def t_n_1(graph):
+def t_n_1(graph: Graph):
   """Test query 1 for Neo4j
   """
   t = perf_counter()
@@ -80,7 +80,7 @@ def t_n_1(graph):
 
   print(f"Neo4J query 1 complete! ({perf_counter()-t}s)")
 
-def t_n_2(graph):
+def t_n_2(graph: Graph):
   """Test query 2 for Neo4j
   """
   t = perf_counter()
@@ -89,7 +89,7 @@ def t_n_2(graph):
 
   print(f"Neo4J query 2 complete! ({perf_counter()-t}s)")
 
-def t_n_3(graph):
+def t_n_3(graph: Graph):
   """Test query 3 for Neo4j
   """
   t = perf_counter()
@@ -98,7 +98,7 @@ def t_n_3(graph):
 
   print(f"Neo4J query 3 complete! ({perf_counter()-t}s)")
 
-def t_n(graph):
+def t_n(graph: Graph):
   """Test all query for Neo4j
   """
   t = perf_counter()
