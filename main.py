@@ -123,13 +123,13 @@ if __name__ == "__main__":
 
   load_dotenv()
 
-  conn = None;
+  conn = None
   if "_p" in args.task:
     conn = psycopg2.connect(f"user='{env('POSTGRE_USER')}' password='{env('POSTGRE_PASS')}' host='{env('POSTGRE_HOST')}' port='5432'")
   elif "_n" in args.task:
     conn = Graph(f"bolt://{env('NEO4J_HOST')}", auth=(env('NEO4J_USER'), env('NEO4J_PASS')))
 
-  data = None;
+  data = None
   if "g" in args.task:
     data = generate()
     
