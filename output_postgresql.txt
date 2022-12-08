@@ -1,0 +1,111 @@
+Starting test 1 for PostgreSQL! (1000)
+  Initial name: Joshua Willis
+  Running 1000 flip-flop queries...
+  Final name: Joshua Willis
+PostgreSQL query 1 complete! (3.271230389000266s)
+Starting test 1 for PostgreSQL! (1000)
+  Initial name: Joshua Willis
+  Running 1000 flip-flop queries...
+  Final name: Joshua Willis
+PostgreSQL query 1 complete! (3.5035610939994513s)
+Starting test 1 for PostgreSQL! (1000)
+  Initial name: Joshua Willis
+  Running 1000 flip-flop queries...
+  Final name: Joshua Willis
+PostgreSQL query 1 complete! (2.9260690259998228s)
+Starting test 1 for PostgreSQL! (1000)
+  Initial name: Joshua Willis
+  Running 1000 flip-flop queries...
+  Final name: Joshua Willis
+PostgreSQL query 1 complete! (3.317354642000282s)
+Starting test 1 for PostgreSQL! (1000)
+  Initial name: Joshua Willis
+  Running 1000 flip-flop queries...
+  Final name: Joshua Willis
+PostgreSQL query 1 complete! (3.4109755480003514s)
+Starting test 1 for PostgreSQL! (1000)
+  Initial name: Joshua Willis
+  Running 1000 flip-flop queries...
+  Final name: Joshua Willis
+PostgreSQL query 1 complete! (2.7078846220010746s)
+Starting test 1 for PostgreSQL! (1000)
+  Initial name: Joshua Willis
+  Running 1000 flip-flop queries...
+  Final name: Joshua Willis
+PostgreSQL query 1 complete! (3.3083124160002626s)
+Starting test 1 for PostgreSQL! (1000)
+  Initial name: Joshua Willis
+  Running 1000 flip-flop queries...
+  Final name: Joshua Willis
+PostgreSQL query 1 complete! (3.2472720709993155s)
+Starting test 1 for PostgreSQL! (1000)
+  Initial name: Joshua Willis
+  Running 1000 flip-flop queries...
+  Final name: Joshua Willis
+PostgreSQL query 1 complete! (3.465910894999979s)
+Starting test 1 for PostgreSQL! (1000)
+  Initial name: Joshua Willis
+  Running 1000 flip-flop queries...
+  Final name: Joshua Willis
+PostgreSQL query 1 complete! (3.1027611270001216s)
+Starting test 2 for PostgreSQL! (1000)
+  Running 1000 profile queries...
+PostgreSQL query 2 complete! (1.1827131879999797s)
+Starting test 2 for PostgreSQL! (1000)
+  Running 1000 profile queries...
+PostgreSQL query 2 complete! (1.101443104000282s)
+Starting test 2 for PostgreSQL! (1000)
+  Running 1000 profile queries...
+PostgreSQL query 2 complete! (1.330912524001178s)
+Starting test 2 for PostgreSQL! (1000)
+  Running 1000 profile queries...
+PostgreSQL query 2 complete! (1.3033948869997403s)
+Starting test 2 for PostgreSQL! (1000)
+  Running 1000 profile queries...
+PostgreSQL query 2 complete! (1.1609400260003895s)
+Starting test 2 for PostgreSQL! (1000)
+  Running 1000 profile queries...
+PostgreSQL query 2 complete! (1.4370134199998574s)
+Starting test 2 for PostgreSQL! (1000)
+  Running 1000 profile queries...
+PostgreSQL query 2 complete! (1.1406153619991528s)
+Starting test 2 for PostgreSQL! (1000)
+  Running 1000 profile queries...
+PostgreSQL query 2 complete! (1.0756747020004696s)
+Starting test 2 for PostgreSQL! (1000)
+  Running 1000 profile queries...
+PostgreSQL query 2 complete! (1.0944108990006498s)
+Starting test 2 for PostgreSQL! (1000)
+  Running 1000 profile queries...
+PostgreSQL query 2 complete! (1.1044599229990126s)
+Starting test 3 for PostgreSQL! (1000))
+  Running 1000 complex queries...
+PostgreSQL query 3 complete! (9.42298744800064s)
+Starting test 3 for PostgreSQL! (1000))
+  Running 1000 complex queries...
+PostgreSQL query 3 complete! (8.560231425999518s)
+Starting test 3 for PostgreSQL! (1000))
+  Running 1000 complex queries...
+PostgreSQL query 3 complete! (8.563273035000748s)
+Starting test 3 for PostgreSQL! (1000))
+  Running 1000 complex queries...
+PostgreSQL query 3 complete! (8.580397830999573s)
+Starting test 3 for PostgreSQL! (1000))
+  Running 1000 complex queries...
+PostgreSQL query 3 complete! (8.504970240001057s)
+Starting test 3 for PostgreSQL! (1000))
+  Running 1000 complex queries...
+PostgreSQL query 3 complete! (8.553984983000191s)
+Starting test 3 for PostgreSQL! (1000))
+  Running 1000 complex queries...
+PostgreSQL query 3 complete! (9.187729981998928s)
+Starting test 3 for PostgreSQL! (1000))
+  Running 1000 complex queries...
+PostgreSQL query 3 complete! (8.567549772000348s)
+Starting test 3 for PostgreSQL! (1000))
+  Running 1000 complex queries...
+PostgreSQL query 3 complete! (8.643601798999953s)
+Starting test 3 for PostgreSQL! (1000))
+  Running 1000 complex queries...
+PostgreSQL query 3 complete! (8.594902250000814s)
+PostgreSQL query 1, 2, and 3 complete! (131.37309350000032s)

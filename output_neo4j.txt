@@ -1,0 +1,111 @@
+Starting test 1 for Neo4j! (1000)
+  Initial name: Joshua Willis
+  Running 1000 flip-flop queries...
+  Final name: Joshua Willis
+Neo4J query 1 complete! (3.235692423997534s)
+Starting test 1 for Neo4j! (1000)
+  Initial name: Joshua Willis
+  Running 1000 flip-flop queries...
+  Final name: Joshua Willis
+Neo4J query 1 complete! (3.538625928998954s)
+Starting test 1 for Neo4j! (1000)
+  Initial name: Joshua Willis
+  Running 1000 flip-flop queries...
+  Final name: Joshua Willis
+Neo4J query 1 complete! (3.452571927002282s)
+Starting test 1 for Neo4j! (1000)
+  Initial name: Joshua Willis
+  Running 1000 flip-flop queries...
+  Final name: Joshua Willis
+Neo4J query 1 complete! (3.1775168669992127s)
+Starting test 1 for Neo4j! (1000)
+  Initial name: Joshua Willis
+  Running 1000 flip-flop queries...
+  Final name: Joshua Willis
+Neo4J query 1 complete! (3.223052555000322s)
+Starting test 1 for Neo4j! (1000)
+  Initial name: Joshua Willis
+  Running 1000 flip-flop queries...
+  Final name: Joshua Willis
+Neo4J query 1 complete! (3.21170989500024s)
+Starting test 1 for Neo4j! (1000)
+  Initial name: Joshua Willis
+  Running 1000 flip-flop queries...
+  Final name: Joshua Willis
+Neo4J query 1 complete! (3.152125268999953s)
+Starting test 1 for Neo4j! (1000)
+  Initial name: Joshua Willis
+  Running 1000 flip-flop queries...
+  Final name: Joshua Willis
+Neo4J query 1 complete! (3.1227460149966646s)
+Starting test 1 for Neo4j! (1000)
+  Initial name: Joshua Willis
+  Running 1000 flip-flop queries...
+  Final name: Joshua Willis
+Neo4J query 1 complete! (2.9808612989982066s)
+Starting test 1 for Neo4j! (1000)
+  Initial name: Joshua Willis
+  Running 1000 flip-flop queries...
+  Final name: Joshua Willis
+Neo4J query 1 complete! (3.0574104110019107s)
+Starting test 2 for Neo4j! (1000)
+  Running 1000 profile queries...
+Neo4J query 2 complete! (1.8862605130016163s)
+Starting test 2 for Neo4j! (1000)
+  Running 1000 profile queries...
+Neo4J query 2 complete! (2.0289933280000696s)
+Starting test 2 for Neo4j! (1000)
+  Running 1000 profile queries...
+Neo4J query 2 complete! (1.6338019789982354s)
+Starting test 2 for Neo4j! (1000)
+  Running 1000 profile queries...
+Neo4J query 2 complete! (1.9825787039990246s)
+Starting test 2 for Neo4j! (1000)
+  Running 1000 profile queries...
+Neo4J query 2 complete! (1.9060043770004995s)
+Starting test 2 for Neo4j! (1000)
+  Running 1000 profile queries...
+Neo4J query 2 complete! (1.8674243839996052s)
+Starting test 2 for Neo4j! (1000)
+  Running 1000 profile queries...
+Neo4J query 2 complete! (1.7694303419993958s)
+Starting test 2 for Neo4j! (1000)
+  Running 1000 profile queries...
+Neo4J query 2 complete! (1.8681392270009383s)
+Starting test 2 for Neo4j! (1000)
+  Running 1000 profile queries...
+Neo4J query 2 complete! (1.832444449999457s)
+Starting test 2 for Neo4j! (1000)
+  Running 1000 profile queries...
+Neo4J query 2 complete! (1.8267052410010365s)
+Starting test 3 for Neo4j! (1000))
+  Running 1000 complex queries...
+Neo4J query 3 complete! (1.483984029997373s)
+Starting test 3 for Neo4j! (1000))
+  Running 1000 complex queries...
+Neo4J query 3 complete! (1.47348994999993s)
+Starting test 3 for Neo4j! (1000))
+  Running 1000 complex queries...
+Neo4J query 3 complete! (1.5213257130017155s)
+Starting test 3 for Neo4j! (1000))
+  Running 1000 complex queries...
+Neo4J query 3 complete! (1.549727952999092s)
+Starting test 3 for Neo4j! (1000))
+  Running 1000 complex queries...
+Neo4J query 3 complete! (1.4863462680004886s)
+Starting test 3 for Neo4j! (1000))
+  Running 1000 complex queries...
+Neo4J query 3 complete! (1.5344609040002979s)
+Starting test 3 for Neo4j! (1000))
+  Running 1000 complex queries...
+Neo4J query 3 complete! (1.4830464430015127s)
+Starting test 3 for Neo4j! (1000))
+  Running 1000 complex queries...
+Neo4J query 3 complete! (1.4657206000010774s)
+Starting test 3 for Neo4j! (1000))
+  Running 1000 complex queries...
+Neo4J query 3 complete! (1.555465744000685s)
+Starting test 3 for Neo4j! (1000))
+  Running 1000 complex queries...
+Neo4J query 3 complete! (1.4787986949995684s)
+Neo4J query 1, 2, and 3 complete! (65.78675981500055s)

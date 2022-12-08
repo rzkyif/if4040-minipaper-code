@@ -185,7 +185,7 @@ class Data:
 #                        Cached Data Generator Function                        #
 # ---------------------------------------------------------------------------- #
 
-def generate(scale=10000, avg_connection=300, pm_connection=200, avg_employment=5, pm_employment=3, avg_education=3, pm_education=2):
+def generate(scale=10000, avg_connection=5, pm_connection=2, avg_employment=5, pm_employment=3, avg_education=3, pm_education=2):
   if os.path.exists("data.pickle"):
     configuration = {
       "scale": scale, 
